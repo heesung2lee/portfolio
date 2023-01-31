@@ -80,10 +80,6 @@ export default function About() {
               Having faced and overcome a health challenge a few years ago, I am grateful to be alive and well, thanks to the support of my loved ones.
               I prioritize living life to the fullest, being open and honest in my dealings, and avoiding repeating past mistakes while also taking lessons from any unfavorable events that may arise.
               </p>
-              <p>
-                Today,  really <em>can</em>{' '}
-                .
-              </p>
             </div>
           </div>
           <div className="lg:pl-20">
