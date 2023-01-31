@@ -65,21 +65,14 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-              I am an individual who is passionate about golf and values the tranquility that nature provides, finding solace in non-judgmental surroundings.
-              I approach life with a curious and positive outlook, striving to maintain control of my emotions and be self-aware.
+              As an aspiring software developer, my passion for golf and the lessons I've learned from it inform my work. Just like golf, software development requires focus, patience, and the ability to adapt to challenges. The saying in sports psychology, "give up control to gain control," guides me in my approach to problem-solving in software development. I strive to maintain a curious and positive outlook, releasing my need to control everything and focusing on the present moment in order to make necessary changes and improve.
               </p>
               <p>
-              Golf to me is more than just a game, but a mirror of life.
-              Although it may seem like a solitary activity, every golfer faces unique challenges in every shot playing it.
-              The saying in sports psychology “give up control to gain control" resonates deeply with me.
-              This means releasing my need to control everything, focusing on the present moment and making necessary changes to improve.
-              By doing so, I find myself one step closer to my goals and have better control over my progress.
-              I value learning from my own decisions and their consequences, as well as observing and understanding the decisions and outcomes of others.
-              </p>
+              I believe in learning from my own decisions and outcomes, as well as observing and understanding the decisions and outcomes of others. This approach helps me to continuously improve and avoid repeating past mistakes. Additionally, my experience of facing and overcoming a health challenge has taught me the importance of living life to the fullest and being open and honest in my dealings.</p>
               <p>
-              Having faced and overcome a health challenge a few years ago, I am grateful to be alive and well, thanks to the support of my loved ones.
-              I prioritize living life to the fullest, being open and honest in my dealings, and avoiding repeating past mistakes while also taking lessons from any unfavorable events that may arise.
-              </p>
+              In software development, these principles have helped me to approach each new challenge with a proactive and growth-oriented mindset. My passion for golf and the life lessons I have learned from it have greatly impacted my approach to software development, making me a continuously improving developer.</p>
+
+
             </div>
           </div>
           <div className="lg:pl-20">
